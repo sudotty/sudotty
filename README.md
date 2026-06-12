@@ -34,6 +34,7 @@ GitHub-native SEO / GEO / ASO automation loop that turns growth opportunities in
 Portfolio planning:
 
 - [Production AI Agent Portfolio Roadmap](docs/portfolio-roadmap.md)
+- [Project Issue Map](docs/project-issue-map.md)
 - [GitHub Profile Checklist](docs/github-profile-checklist.md)
 
 ---
