@@ -31,6 +31,11 @@ GitHub-native SEO / GEO / ASO automation loop that turns growth opportunities in
 | [Human-in-the-loop Workflow Agent](https://github.com/sudotty/hitl-workflow-agent) | Invoice reconciliation, policy checks, risk scoring, approval gates, and audit trails |
 | [Production Agent Starter Kit](https://github.com/sudotty/production-agent-starter-kit) | A reference architecture for agent runtime, tools, RAG, tracing, evals, and governance |
 
+Portfolio planning:
+
+- [Production AI Agent Portfolio Roadmap](docs/portfolio-roadmap.md)
+- [GitHub Profile Checklist](docs/github-profile-checklist.md)
+
 ---
 
 ## Engineering Background
@@ -66,5 +71,7 @@ AI Agent Engineering
   → Browser automation
   → GitHub-native growth loops
 ```
+
+Rilke is a quiet reminder for the work style I like: attention before noise, precision before speed, and enough patience to keep becoming more exact.
 
 The shortest answer is doing.
