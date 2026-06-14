@@ -35,6 +35,10 @@ Portfolio planning:
 
 - [Production AI Agent Portfolio Roadmap](docs/portfolio-roadmap.md)
 - [Project Issue Map](docs/project-issue-map.md)
+- [Strategic Choice](docs/strategic-choice.md)
+- [Design Assets Index](docs/design-assets-index.md)
+- [Project Showcase Index](docs/project-showcase-index.md)
+- [Next Build Sequence](docs/next-build-sequence.md)
 - [Self-Promotion Notes](docs/self-promotion-notes.md)
 - [GitHub Profile Checklist](docs/github-profile-checklist.md)
 
